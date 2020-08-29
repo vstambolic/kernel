@@ -10,4 +10,5 @@ To test the behaviour of the kernel, as well as its efficiency and performance, 
 For the purpose of demonstration, easier development, testing and experimenting, the kernel and the application need to be executed on any type of 32-bit Windows operating system like a console application.
 
 Screenshot:
-![](sample.png)
+
+![](sample.png 583x349)
