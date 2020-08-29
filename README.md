@@ -8,3 +8,6 @@ Within this project, a special subsystem of the kernel is implemented - the thre
 To test the behaviour of the kernel, as well as its efficiency and performance, a well-known example is provided - the bounded buffer problem. It is given as a system of a few producers and one consumer which exchange data using the bounded buffer. The producers and the consumer are all implemented as threads while the buffer is a passive object which uses semaphores for mutual exclusion and conditional synchronization. The type of data that is individually being written to and read from the buffer is a single character. There is also one special producer which is activated with interruption caused by pressing the keyboard, reads the pressed key and puts the matching character into the buffer.
 
 For the purpose of demonstration, easier development, testing and experimenting, the kernel and the application need to be executed on any type of 32-bit Windows operating system like a console application.
+
+Screenshot:
+![](sample.png)
