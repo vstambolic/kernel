@@ -11,4 +11,4 @@ For the purpose of demonstration, easier development, testing and experimenting,
 
 Screenshot:
 
-![](sample.png 583x349)
+<img src="sample.png" width=583 height=349>
